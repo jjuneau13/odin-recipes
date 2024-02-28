@@ -1,0 +1,1 @@
+This project is for me to create a small website with some links to recipes. The goal of this project is to help teach me the basics of html and how to use it for a simple website.
